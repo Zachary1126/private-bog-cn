@@ -1,0 +1,6 @@
+{
+  "name": "个人博客与创作空间",
+  "description": "一个集成了 Gemini AI 辅助创作、Markdown 实时渲染、标签管理、暗色模式切换、以及模拟多端渠道（GitHub, 微信, 知乎, Medium）同步发布的一站式个人博客管理与写作平台。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
